@@ -1,9 +1,15 @@
-# Groww Cart
+# Groww Cart: A Dynamic Shopping Experience
 
 ## Overview
 
-This project is a React.js application that leverages Chakra UI for styling and Zustand for state management. It implements a dynamic checkout process with randomized products, themes, and payment status. The user can choose between different payment methods, including UPI and credit card. The project also features various validations, such as UPI handling, credit card validation using the Luhn algorithm, and more.
+This project is a Next.js application built with:
 
+- Chakra UI: for component styling.
+- Zustand: for state management.
+- It simulates a dynamic checkout experience with:
+- Randomized products and themes: Users encounter a unique product selection and theme upon opening the page.
+- Clearable cache: A "reload" button allows users to refresh the cart state and theme.
+  
 ## User Workflow
 
 1. **Product and Theme Randomization:**
@@ -15,9 +21,18 @@ This project is a React.js application that leverages Chakra UI for styling and 
 
    - After selecting products, the user proceeds to checkout.
 
-3. **Payment Page:**
+3.  **Payment Page:**
 
    - The user can switch between payment methods.
+
+   Payment Method Validation:
+
+- UPI: The entered string must end with "@upiHandle" (e.g., "oksbi@upiHandle", "axl@upiHandle").
+- Credit Card:
+  -- Validated using the Luhn algorithm.
+  -- Requires a valid number for successful payment.
+- CVV: Must be 3-4 numeric digits.
+- Expiry Date: Validates for dates up to 12 years in the future.
 
 4. **UPI Handling:**
 
@@ -48,32 +63,36 @@ This project is a React.js application that leverages Chakra UI for styling and 
 
 ## Tech Stack
 
-- React.js
+- Next.js
 - Chakra UI
 - Zustand
 
 ## Preview
 
-### Cart Page
+
+### Checkout Page
 
 <img src="./src/assets/cart.png" width="560"/>
 
-### Payment Successful Page
+
+### Payment Options Page
+
+<img src="src/assets/IMG_4916.PNG" width="560"/>
+
+
+### Order Confirmation Page
 
 <img src="./src/assets/payment.png" width="560"/>
 
-### Payment Failed Page
+
+### Order Failed Page
 
 <img src="./src/assets/payment_failed.png" width="560"/>
 
 
-### 404 Page
-
-<img src="./src/assets/404.png" width="560" />
-
 ### Mobile View
 
-<img src="https://github.com/J-Ankit2020/groww_frontend_assignment/blob/main/src/assets/cart_mobile%20.png" />
+<img src="src/assets/output.png" width="560"/>
 
 ## Getting Started
 
@@ -91,3 +110,4 @@ This project is a React.js application that leverages Chakra UI for styling and 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
