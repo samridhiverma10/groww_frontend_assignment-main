@@ -69,15 +69,18 @@ This project is a Next.js application built with:
 
 ## Preview
 
-### Cart Page
+### Checkout Page
 
 <img src="./src/assets/cart.png" width="560"/>
 
-### Payment Successful Page
+### Checkout Page
+
+
+### Order Confirmation Page
 
 <img src="./src/assets/payment.png" width="560"/>
 
-### Payment Failed Page
+### Order Failed Page
 
 <img src="./src/assets/payment_failed.png" width="560"/>
 
