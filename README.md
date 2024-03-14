@@ -91,8 +91,8 @@ This project is a Next.js application built with:
 
 
 ### Mobile View
-
-<img src="https://github.com/J-Ankit2020/groww_frontend_assignment/blob/main/src/assets/cart_mobile%20.png" />
+src/assets/WhatsApp Image 2024-03-14 at 11.30.23 PM.jpeg
+<img src="src/assets/WhatsApp Image 2024-03-14 at 11.30.23 PM.jpeg" width="560"/>
 
 ## Getting Started
 
