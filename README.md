@@ -91,7 +91,7 @@ This project is a Next.js application built with:
 
 
 ### Mobile View
-src/assets/WhatsApp Image 2024-03-14 at 11.30.23 PM.jpeg
+
 <img src="src/assets/WhatsApp Image 2024-03-14 at 11.30.23 PM.jpeg" width="560"/>
 
 ## Getting Started
