@@ -77,7 +77,7 @@ This project is a Next.js application built with:
 
 ### Payment Options Page
 
-<img src="src/assets/IMG_4916.PNG" width="560"/>
+<img src="./src/assets/IMG_4916.PNG" width="560"/>
 
 
 ### Order Confirmation Page
@@ -92,7 +92,7 @@ This project is a Next.js application built with:
 
 ### Mobile View
 
-<img src="src/assets/output.png" width="560"/>
+<img src="./src/assets/output.png" width="560"/>
 
 ## Getting Started
 
