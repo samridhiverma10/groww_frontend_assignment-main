@@ -1,4 +1,4 @@
-# Groww Cart: A Dynamic React Shopping Experience
+# Groww Cart: A Dynamic Shopping Experience
 
 ## Overview
 
