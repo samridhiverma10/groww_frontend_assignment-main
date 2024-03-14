@@ -75,11 +75,6 @@ This project is a Next.js application built with:
 <img src="./src/assets/cart.png" width="560"/>
 
 
-### Payment Options Page
-
-<img src="./src/assets/IMG_4916.PNG" width="560"/>
-
-
 ### Order Confirmation Page
 
 <img src="./src/assets/payment.png" width="560"/>
@@ -89,10 +84,6 @@ This project is a Next.js application built with:
 
 <img src="./src/assets/payment_failed.png" width="560"/>
 
-
-### Mobile View
-
-<img src="./src/assets/output.png" width="560"/>
 
 ## Getting Started
 
