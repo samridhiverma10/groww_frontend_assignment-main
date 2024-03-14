@@ -75,6 +75,7 @@ This project is a Next.js application built with:
 
 ### Checkout Page
 
+<img src="src/assets/Screenshot (51).png" width="560"/>
 
 ### Order Confirmation Page
 
